@@ -1,0 +1,4 @@
+.DS_Store
+plausible-conf.env
+*.log
+.env
